@@ -1,0 +1,14 @@
+D:\c#codes\Authentication\Authentication\bin\Debug\Authentication.dll.config
+D:\c#codes\Authentication\Authentication\bin\Debug\Authentication.dll
+D:\c#codes\Authentication\Authentication\bin\Debug\Authentication.pdb
+D:\c#codes\Authentication\Authentication\obj\Debug\Portal.csprojAssemblyReference.cache
+D:\c#codes\Authentication\Authentication\obj\Debug\Portal.csproj.CoreCompileInputs.cache
+D:\c#codes\Authentication\Authentication\obj\Debug\Authentication.dll
+D:\c#codes\Authentication\Authentication\obj\Debug\Authentication.pdb
+C:\Users\SETURAJ\Desktop\ClassRoom\WCFProject_CE074_CE052\Authentication\Authentication\bin\Debug\Authentication.dll.config
+C:\Users\SETURAJ\Desktop\ClassRoom\WCFProject_CE074_CE052\Authentication\Authentication\bin\Debug\Authentication.dll
+C:\Users\SETURAJ\Desktop\ClassRoom\WCFProject_CE074_CE052\Authentication\Authentication\bin\Debug\Authentication.pdb
+C:\Users\SETURAJ\Desktop\ClassRoom\WCFProject_CE074_CE052\Authentication\Authentication\obj\Debug\Portal.csproj.AssemblyReference.cache
+C:\Users\SETURAJ\Desktop\ClassRoom\WCFProject_CE074_CE052\Authentication\Authentication\obj\Debug\Portal.csproj.CoreCompileInputs.cache
+C:\Users\SETURAJ\Desktop\ClassRoom\WCFProject_CE074_CE052\Authentication\Authentication\obj\Debug\Authentication.dll
+C:\Users\SETURAJ\Desktop\ClassRoom\WCFProject_CE074_CE052\Authentication\Authentication\obj\Debug\Authentication.pdb
